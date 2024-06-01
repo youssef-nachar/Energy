@@ -11,7 +11,7 @@
 
 <body>
     <header>
-        <div class="logo"><span>Al</span>Zohbie.</div>
+        <div class="logo"><span>NATURAL ENERGY</span>Zohbie.</div>
         <ul class="navlist">
             <li><a href="#">Home</a></li>
             <li><a href="./about">About</a></li>
